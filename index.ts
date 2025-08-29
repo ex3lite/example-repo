@@ -1,5 +1,3 @@
-import './i18n'
-
 import { Events, Menu, LocalPlayer, GameState, EventsSDK, ImageData } from 'github.com/octarine-public/wrapper/index'
 
 const customGamesEntry = Menu.AddEntry('Custom Games', ImageData.Icons.icon_svg_keyboard)
